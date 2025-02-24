@@ -1,5 +1,3 @@
-User-Agent: *
+User-agent: *
 Allow: /
-Disallow: /api-proxy
-
 Sitemap: https://iklilnajmamuqtafa.framer.website/sitemap.xml
