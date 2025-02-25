@@ -1,8 +1,5 @@
 {
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "https://iklilnajmamuqtafa.framer.website/$1"
-    }
+  "routes": [
+    { "src": "/robots.txt", "dest": "/robots.txt" }
   ]
 }
