@@ -1,5 +1,5 @@
 {
-  "redirects": [
+   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://iklilnajmamuqtafa.framer.website/$1",
